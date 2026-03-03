@@ -125,13 +125,6 @@ Data doesn't lie. And sometimes the most useful dataset is the one you generate 
 
 ---
 
-## 🔗 Related Projects
-
-- 📦 [Vendor Performance Analysis](https://github.com/keerthihousure/Vendor-Performance-Analysis) —
-  end-to-end BI project using Python, Power BI & DAX on retail transactional data
-
----
-
 ## 📬 About Me
 
 **Keerthi Housure Srinivas**
